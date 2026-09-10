@@ -1,6 +1,6 @@
-## Sales Data Analyzer
+# Sales Data Analyzer
 
-#  Project Overview
+##  Project Overview
 
 In this project, I analyze sales data using Python and its different libraries to understand the data and extract useful insights that help me understand sales performance.
 
@@ -10,7 +10,7 @@ The main goal of the analysis is to understand sales trends, identify the best-s
 
 The project also includes data cleaning, calculations, and data visualization to make the data easier to understand and help support data-driven decisions.
 
-# Tools & Libraries
+## Tools & Libraries
 
 * Python
 * Pandas
@@ -28,7 +28,7 @@ The analysis focuses on:
 * Most profitable products
 * Sales trends and patterns
 
-#  Key Insights
+## Key Insights
 
 The analysis helped me identify important patterns in the sales data, including:
 
@@ -38,7 +38,7 @@ The analysis helped me identify important patterns in the sales data, including:
 * The products that generated the most profit
 * Changes in sales performance over time
 
-# Visualizations
+## Visualizations
 
 Different charts were created to make the results easier to understand and compare, including:
 
@@ -47,6 +47,6 @@ Different charts were created to make the results easier to understand and compa
 * Product performance
 * Monthly sales/profit
 
-# Conclusion
+## Conclusion
 
 This project helped me practice using Python for data analysis, from cleaning and exploring the data to creating visualizations and extracting useful insights.
