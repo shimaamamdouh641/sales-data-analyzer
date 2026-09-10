@@ -18,7 +18,7 @@ The project also includes data cleaning, calculations, and data visualization to
 * Matplotlib
 * Seaborn
 
-# Analysis
+## Analysis
 
 The analysis focuses on:
 
